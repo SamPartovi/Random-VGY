@@ -1,5 +1,5 @@
 # Random-VGY
-## *a simple program to find random vgy.me screenshots*
+## *a simple program to find random vgy.me screenshots* 🖼️
 
 - The purpose of this program is to demonstrate the public nature of such image sharing websites and to serve as a fun way to see random screenshots that users have posted.
 
