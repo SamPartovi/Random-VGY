@@ -5,6 +5,8 @@
 
 - The program uses a multithreaded search function of random 6-character alphanumeric links for the image sharing site ***[vgy.me](https://vgy.me/)***.
 
+- Invalid links are ignored, there should be no false positives. 
+
 > Approximately 100 searches per second are performed with default parameters.
 
 > On average, it takes 550 seconds to find a "**hit**," after which the link is ***automatically opened*** in a new browser tab and hits are saved to a text file in the root directory.
